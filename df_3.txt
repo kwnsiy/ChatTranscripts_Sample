@@ -7,7 +7,7 @@
 "L"	"10:32"	"I didn't find it in print at the *Library’s Name+. I'm checking to see if it's available online."
 "L"	"10:35"	"So far, I haven't found it. I thought the *Library’s+ Business Branch might have it, but no luck."
 "L"	"10:35"	"They might know of a library that has it, though."
-""	"P"	"ok. What about [Name of local business school]?"
+"P"	"10:35"	"ok. What about [Name of local business school]?"
 "L"	"10:36"	"You can call them at [business school phone number]."
 "P"	"10:36"	"thanks"
 "L"	"10:36"	"Let me check the *local business school’s+ catalog and see if I can find it."
